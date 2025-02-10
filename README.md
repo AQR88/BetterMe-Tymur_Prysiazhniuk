@@ -1,1 +1,0 @@
-# BetterMe-Tymur_Prysiazhniuk
