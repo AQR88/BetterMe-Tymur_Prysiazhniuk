@@ -7,14 +7,14 @@
 - **Кроки:**
   - Натиснути на картку **Do Your Workout**
 - **Очікуваний результат:**
-  - Користувач переходить у вкладку **Trainings**.
+  - Користувач переходить у вкладку **Workouts**.
   - Відображається блок **Today’s Activity**.
 
 ### **Тест-кейс 2: Відображення "Today’s Activity" з однією активністю**
 - **ID:** TC_02
 - **Передумови:** Користувач вибрав 1 активність у налаштуваннях
 - **Кроки:**
-  - Відкрити вкладку **Trainings**
+  - Відкрити вкладку **Workouts**
 - **Очікуваний результат:**
   - Блок **Today’s Activity** містить заголовок "Recommended for you".
   - Підзаголовок: "Get daily workouts tailored to your goal and interest in [Chosen Activity #1]."
@@ -23,7 +23,7 @@
 - **ID:** TC_03
 - **Передумови:** Користувач вибрав 2 або 3 активності у налаштуваннях
 - **Кроки:**
-  - Відкрити вкладку **Trainings**
+  - Відкрити вкладку **Workouts**
 - **Очікуваний результат:**
   - Блок **Today’s Activity** містить заголовок "Recommended for you".
   - Підзаголовок: "Get daily workouts tailored to your goal and interests in [Chosen Activity #1], [#2] and [#3]."
